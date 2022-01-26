@@ -1,11 +1,9 @@
 ## اهـلا بـك
-هـذا المـوقع هـو السـورس الأصلـي لجمثـون يجـب عليـك تطبيـق خطـوات الشـرح المنشـور هــنا
-بعدها ان تضغـط في الأسفـل وتقـوم بالـتنصيـب
-
+مـن هـنا تستطيـع عمـل رابط تنصيـب خـاص بـك
 
 ## رابـط السـورس للتنـصيـب
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon)
 
 ## شكـرا لكـم 
 
